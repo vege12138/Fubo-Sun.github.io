@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fubo Sun | Master's Student in Computer Science at Anhui University"
 author_profile: true
 redirect_from: 
   - /about/
